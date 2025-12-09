@@ -61,11 +61,15 @@ Novos scripts de automação poderão ser adicionados futuramente, mantendo o re
 pip install PyPDF2
 
 4. Para executar o organizador de arquivos:
-python organizador_arquivos.py
+   python organizador_arquivos.py
+
+
 Uma janela será aberta para você selecionar a pasta que deseja organizar.
 
 5. Para executar o script de merge de PDFs:
-python merge_pdfs.py
+   python merge_pdfs.py
+
+
 Ajuste no código o caminho da pasta com os PDFs, se necessário.
 
 ## Objetivo do projeto
@@ -78,6 +82,7 @@ Este projeto foi criado com foco em estudo e aprimoramento das habilidades em Py
 - Criação de pequenos utilitários reaproveitáveis
 
 Além de servir como registro da evolução no aprendizado, o repositório funciona como base para futuros projetos de automação mais robustos e profissionais, que podem incluir agendamentos, logs, tratamento de erros mais elaborado, interfaces gráficas mais completas ou integração com outros sistemas.
+
 
 
 
