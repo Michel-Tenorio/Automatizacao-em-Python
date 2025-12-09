@@ -59,6 +59,29 @@ Novos scripts de automação poderão ser adicionados futuramente, mantendo o re
 2. (Opcional) Crie e ative um ambiente virtual.
 3. Instale as dependências necessárias:
 
+4. Para executar o organizador de arquivos:
+
+
+Uma janela será aberta para você selecionar a pasta que deseja organizar.
+
+5. Para executar o script de merge de PDFs:
+
+
+Ajuste no código o caminho da pasta com os PDFs, se necessário.
+
+## Objetivo do projeto
+
+Este projeto foi criado com foco em estudo e aprimoramento das habilidades em Python, principalmente nas áreas de:
+
+- Automação de tarefas rotineiras
+- Manipulação de arquivos e diretórios
+- Uso de bibliotecas externas
+- Criação de pequenos utilitários reaproveitáveis
+
+Além de servir como registro da evolução no aprendizado, o repositório funciona como base para futuros projetos de automação mais robustos e profissionais, que podem incluir agendamentos, logs, tratamento de erros mais elaborado, interfaces gráficas mais completas ou integração com outros sistemas.
+
+
+
 
 
 
